@@ -1,5 +1,5 @@
 # Movie-reviews-blogging-app-prototype
-Link to Prototype:[https://app.moqups.com/IuXG1UBCmLJeKB54pIt5KeihsArKQGaV/view/page/ac4f1bc20]
+Link to Prototype: https://app.moqups.com/IuXG1UBCmLJeKB54pIt5KeihsArKQGaV/view/page/a006f7f43
 # Steps to follow
 1. Firstly, Press "Register" followed by "create account".
 2. Press "Log in".
